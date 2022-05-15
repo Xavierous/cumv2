@@ -14,3 +14,7 @@ cd cumv2
 ls
 
 python run.py
+
+# Lisensi
+
+LGVPE-LPEDX-REUIV-ANJIA
