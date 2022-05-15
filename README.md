@@ -1,3 +1,6 @@
+# Cobain Dulu Bang
+
+
 # cumv2
 pkg update
 
